@@ -1,0 +1,1 @@
+construct SQL queries out of javascript objects (see /tests)

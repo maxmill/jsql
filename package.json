@@ -1,0 +1,16 @@
+{
+    "name": "jsQL",
+    "version": "0.0.1",
+    "homepage": "https://github.com/maxmill/jsql",
+    "author": {
+        "name": "Max Millien",
+        "email": "maxmillien@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/maxmill/jsql.git"
+    },
+    "devDependencies": {
+        "tap": "*"
+    }
+}
